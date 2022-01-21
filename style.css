@@ -1,0 +1,17 @@
+body
+{
+    font-family: 'Playfair Display', serif;
+    background-image: linear-gradient(to bottom right ,white, black, white) !important;
+    background-size: cover;
+
+}
+canvas
+{
+    background-color: white;
+    border: ridge;
+    border-color: gold;
+}
+img
+{
+    margin-left: 1000px;
+}
